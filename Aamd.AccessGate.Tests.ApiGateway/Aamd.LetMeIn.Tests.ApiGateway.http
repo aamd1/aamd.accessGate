@@ -1,0 +1,6 @@
+@Aamd.LetMeIn.Tests.ApiGateway_HostAddress = http://localhost:5044
+
+GET {{Aamd.LetMeIn.Tests.ApiGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

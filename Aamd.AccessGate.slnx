@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Clients/">
+    <Project Path="Aamd.AccessGate.Tests.ApiGateway\Aamd.AccessGate.Tests.ApiGateway.csproj" />
+    <Project Path="Aamd.AccessGate.Tests.Client\Aamd.AccessGate.Tests.Client.csproj" />
+  </Folder>
+  <Project Path="Aamd.AccessGate.AppHost\Aamd.AccessGate.AppHost.csproj" />
+  <Project Path="Aamd.AccessGate.Domain\Aamd.AccessGate.Domain.csproj" />
+  <Project Path="Aamd.AccessGate.ServiceDefaults\Aamd.AccessGate.ServiceDefaults.csproj" />
+  <Project Path="Aamd.AccessGate.Web\Aamd.AccessGate.Web.csproj" />
+</Solution>
